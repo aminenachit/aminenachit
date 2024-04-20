@@ -9,14 +9,14 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on an **E-commerce-app**
+- 🔭 I’m currently working on an **reactJS web site**
 
-- 🌱 I’m currently learning **Flutter Framework**
+- 🌱 I’m currently learning **ReactJS framework**
 
 - 💬 Ask me about **Flutter**
 
 - 📫 How to reach me **aminenachit100@gmail.com**
-
+**my portfolio https://aminenachit99.wixsite.com/nachit-portfolio**
 - ⚡ Fun fact **NACHT**
 
 <h3 align="left">Connect with me:</h3>
