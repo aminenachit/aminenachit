@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Amine Nachit</h1>
-<h3 align="center">A passionate fullstack & Mobile developer from Morocco</h3>
+<h3 align="center">A passionate fullstack & Mobile developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aminenachit&label=Profile%20views&color=0e75b6&style=flat" alt="aminenachit" /> </p>
 
