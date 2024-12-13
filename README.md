@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Amine Nachit</h1>
-<h3 align="center">A passionate fullstack & Mobile developer</h3>
+<h3 align="center">A passionate Data Engineer / fullstack & Mobile developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aminenachit&label=Profile%20views&color=0e75b6&style=flat" alt="aminenachit" /> </p>
 
@@ -9,18 +9,18 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on an **reactJS web site**
+- 🔭 I’m currently working on an **Data engineering project**
 
-- 🌱 I’m currently learning **ReactJS framework**
+- 🌱 I’m currently learning **Databricks**
 
-- 💬 Ask me about **Flutter**
+- 💬 Ask me about **anything**
 
 - 📫 How to reach me **aminenachit100@gmail.com**
 **my portfolio https://aminenachit99.wixsite.com/nachit-portfolio**
 - ⚡ Fun fact **NACHT**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left">www.linkedin.com/in/amine-nachit
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
